@@ -55,7 +55,7 @@ __**Command list:**__
 > \`invite/inv\` - \`invite link for the bot\``
       )
       .setFooter(
-        "©️ Slayer-Kun",
+        "#By Matrix",
         "https://i.pinimg.com/originals/c4/55/1d/c4551d521d5bf5de1749e027a6be2b51.jpg"
       );
     message.channel.send(helpembed);
