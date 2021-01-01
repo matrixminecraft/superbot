@@ -52,7 +52,7 @@ __**Command list:**__
 > \`playlist\` - **\`playlist [url]\`**
 > \`skip\`, \`stop\`,  \`pause\`, \`loop\`, \`resume\`
 > \`nowplaying\`, \`queue/q\`, \`volume/vol\`
-> \`invite/inv\` - \`invite link for the bot\``
+> \`hi\` - \`\``
       )
       .setFooter(
         "#By Matrix",
