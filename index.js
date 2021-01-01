@@ -52,7 +52,7 @@ __**Command list:**__
 > \`playlist\` - **\`playlist [url]\`**
 > \`skip\`, \`stop\`,  \`pause\`, \`loop\`, \`resume\`
 > \`nowplaying\`, \`queue/q\`, \`volume/vol\`
-> \`hi\` - \`\``
+> \`invite/inv\` - \`invite link for the bot\``
       )
       .setFooter(
         "#By Matrix",
@@ -64,7 +64,7 @@ __**Command list:**__
     return message.channel.send({
         embed: {
           color: "BLUE",
-          description: "https://discord.com/oauth2/authorize?client_id=765616099458678794&scope=bot&permissions=805314622"
+          description: "https://discord.com/oauth2/authorize?client_id=794085849843236894&scope=bot&permissions=2147483647"
         }
     });
   }
